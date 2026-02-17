@@ -46,6 +46,7 @@ Power Pages 認証キーは Power Pages で作成された Web サイトを表�
 
 ＜参考資料＞
 - [Power Pages アーキテクチャ (Docs)](https://learn.microsoft.com/ja-jp/power-pages/admin/architecture)
+
 ![](power-pages-auth-key/power-pages-architecture.png)  
 
 このため、Power Pages の Web サイトが機能するためには、Power Pages (Web サイト) が Dataverse に接続可能な状態である必要があります。
